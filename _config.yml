@@ -3,9 +3,10 @@ title: Nick Cronin
 email: nick@cronin.id.au
 description: "JVM & useful programming discoveries"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.cronin.id.au" # the base hostname & protocol for your site
+url: "https://blog.cronin.id.au"
+enforce_ssl: blog.cronin.id.au
 twitter_username: CroninNick
-github_username:  quintok
+github_username:  Quintok
 
 # Build settings
 markdown: kramdown
